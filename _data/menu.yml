@@ -1,9 +1,7 @@
 entries:
-  - title: "</a>info" 
+  - title: info
     entries:
-      - title: "</a>Public notepad of Dharmanshu."
-      - title: github
-        url: https://github.com/dharmanshu24
-      - title: linkedin
-        url: https://www.linkedin.com/in/dharmanshu-saini
-
+      - title: Welcome to my notepad!
+      - title: about
+        url: about
+  - 

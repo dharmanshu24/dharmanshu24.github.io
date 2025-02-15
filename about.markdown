@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey, I’m Dharmanshu Saini—a firmware engineer who loves tinkering with embedded systems and making things work smarter, not harder. Right now, I’m at **Sibros Technologies**, where I spend my days coding in **C++** and **C**, building firmware for microcontrollers, and figuring out how to make **Over-the-Air (OTA) updates** work even on low-end devices. It’s challenging, but I love the puzzle of making tech more efficient and user-friendly.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before this, I was at **Euler Motors**, where I worked on firmware and bootloaders for electric vehicles. I also had a fun stint as an intern at **StackFusion**, where I got to play around with **IoT** and **RTOS** for automated parking systems. (Yes, I helped make parking a little less annoying!)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I studied **Electronics and Communication** at **NIT Kurukshetra**, and while I was there, I picked up a love for solving real-world problems with code. When I’m not buried in firmware, you’ll probably find me out for a run, lost in a good book, or cruising on my motorcycle.
 
+I’m always up for a good tech chat or a new challenge, so feel free to drop me a line if you want to connect or geek out over embedded systems!
 
-[jekyll-organization]: https://github.com/jekyll
+### Connect with Me
+- [email](mailto:{{ site.email }})  
+- [linkedin]({{ site.linkedin_url }})
+- [github](https://www.github.com/{{ site.github_username }})
