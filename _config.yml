@@ -5,7 +5,6 @@ baseurl: ""
 url: "http://dsaini.dev"
 github_username:  dharmanshu24
 
-# Build settings
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed

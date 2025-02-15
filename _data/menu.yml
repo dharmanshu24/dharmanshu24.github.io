@@ -4,4 +4,7 @@ entries:
       - title: Welcome to my notepad!
       - title: about
         url: about
-  - 
+  - title: recent work
+    entries:
+      - title: "Looking inside Ajjas-Pro GPS Tracker"
+        url: https://github.com/dharmanshu24/ajjas-pro
